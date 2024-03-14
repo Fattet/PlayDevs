@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Estilo para la splash screen -->
+    <style name="SplashTheme" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_screen_image</item>
+    </style>
+
+    <!-- Estilo aplicacion general-->
+    <style name="Theme.PlayDevsGameApp" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
